@@ -2,4 +2,7 @@
 
 appointments/migrations/*
 
+appointments/__pycache__
+website/__pycache__
+
 db.sqlite3
